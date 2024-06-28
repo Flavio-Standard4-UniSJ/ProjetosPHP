@@ -1,0 +1,7 @@
+CREATE TABLE Artigos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(100) NOT NULL,
+    description VARCHAR(255) NOT NULL,
+    content TEXT NOT NULL
+);
+ALTER TABLE Artigos ADD COLUMN data_hora VARCHAR(255);
