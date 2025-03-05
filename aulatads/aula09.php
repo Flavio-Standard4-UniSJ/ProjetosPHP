@@ -2,7 +2,7 @@
 
 //funções de manipulação de Array
 
-// funç~es de ordenação de arrays
+// funções de ordenação de arrays
 
 $cart = ['arroz', 'feijão', 'macarrão', 'açúcar', 'sal', 'batata'];
 
